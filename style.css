@@ -1,0 +1,44 @@
+.tagh3{
+    font-size: 20px;
+    margin: 15px;
+    width: 100%;
+}
+
+.span{
+    font-size: 17px;
+}
+
+body{
+    background-size: cover;
+}
+
+.divVelocidade{
+    float: left;
+}
+
+.divVolume{
+    float: right;
+}
+
+.imgDisco{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#vel, #vol{
+    font-size: 14px;
+    color: snow;
+}
+
+.botaoPlay{
+    font-size: 20px;
+    width: 100px;
+    color: snow;
+}
+
+canvas{
+    border: 15px;
+    border-radius: 25px;
+    box-shadow: 1px 5px 15px cyan;
+    margin-top: 50px;
+}
